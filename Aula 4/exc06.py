@@ -1,0 +1,8 @@
+#Contagem de letra específica
+#Peça ao usuário um texto e uma letra. Mostre quantas vezes essa letra aparece utilizando .cout()
+
+texto = input("Digite um texto: ")
+letra = input("Digite uma letra: ")
+contagem = texto.count(letra)
+
+print(contagem)
