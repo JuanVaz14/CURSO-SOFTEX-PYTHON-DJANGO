@@ -1,0 +1,17 @@
+1- Criar um ambiente virtual
+comando: python -m venv venv 
+
+2- Ativar o ambiente virtual
+comando: .\venv\Scripts\activate
+
+3- Baixar as ferramentas requeriments.txt
+comando: pip install -r requirements.txt
+
+4- Entrar na pasta do projeto
+comando: cd .\modulo_04
+
+5- Fazer o download do banco de dados (Py migrate)
+comando: python manage.py migrate 
+
+6- Rodar o servidor Python running
+comando: python .\manage.py runserver  

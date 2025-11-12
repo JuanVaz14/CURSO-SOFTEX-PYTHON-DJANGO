@@ -1,3 +1,0 @@
--- Active: 1760360139956@@127.0.0.1@3306
-
-SELECT * FROM usuarios;
